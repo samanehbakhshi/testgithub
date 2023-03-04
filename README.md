@@ -1,8 +1,8 @@
 # learn git 
 
 ## terms
-directory
-terminal
+##directory
+###terminal
 cli
 code editor
 repository
